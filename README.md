@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Marcos and I'm a ..., from Brazil</h2>
+<h2 align="left">Oi 👋 Meu nome é Marcos, Sou desenvolvedor de software, Recife,🇧🇷</h2>
 
 ###
 
