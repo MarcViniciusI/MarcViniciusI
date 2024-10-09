@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Marcos+Vinicius;I'm+33+years+old;I+am+from+Recife,+PE;I+study+analysis+and+systems+development+at+Estacio;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Meu+nome+é+Marcos+Vinicius;Sou+de+Recife,+PE;Estou+estudando+Analise+e+Desenvolvimento+de+Sistemas+;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 ###
 
