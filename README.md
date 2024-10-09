@@ -1,4 +1,4 @@
-<h2 align="left">Oi 👋 Meu nome é Marcos, Sou desenvolvedor de software, Recife,🇧🇷 </h2>
+<h2 align="left">Oi 👋 Meu nome é Marcos, Sou desenvolvedor de software, Recife, </h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="201" src="https://imgflip.com/gif/963b3q"  />
+<img align="right" height="201" src=""  />
 
 ###
 
